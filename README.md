@@ -1,8 +1,10 @@
-# spark_foundation_task_3
+# THE SPARK FOUNDATION (GRIP)
+
+# TASK 3
 
 # Payment integration
-This is the project given by sparks foundation
-<h2>The project name is <strong>Payment gateway integration</strong></h2>
+
+
 
 ## 1. Homepage
 ![Homepage](Payment-Integration/screenshots/1.png)
