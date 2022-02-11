@@ -2,7 +2,7 @@
 
 # TASK 3
 
-# Payment integration
+# Payment gateway integration
 
 
 
